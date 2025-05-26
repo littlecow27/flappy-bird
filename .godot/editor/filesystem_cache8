@@ -1,5 +1,14 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1747969280
+::res://::1748299232
 icon.svg::CompressedTexture2D::2815566314994045246::1747969274::1747969282::1::::<><>::
-::res://flappy-bird/::1747969232
 README.md::TextFile::-1::1747969232::0::1::::<><>::
+::res://scenes/::1748299231
+main.tscn::PackedScene::4226371804958365044::1748297947::0::1::::<><>::uid://dyi1dd1v51b1c::::res://scenes/player.tscn
+pipe.tscn::PackedScene::2084173920551746086::1748299231::0::1::::<><>::uid://do7upc5ijxagl::::res://sprites/Pipe.png<>res://scripts/pipe.gd
+player.gd::GDScript::-1::1748296605::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::8861893518348424522::1748299234::0::1::::<><>::res://scenes/player.gd<>uid://brqbma4tp80v::::res://sprites/UFO.png
+::res://scripts/::1748299231
+pipe.gd::GDScript::-1::1748299216::0::1::::<>Area2D<>::
+::res://sprites/::1748297937
+Pipe.png::CompressedTexture2D::8209207228672819487::1748297931::1748297937::1::::<><>::
+UFO.png::CompressedTexture2D::106257154759064883::1748286672::1748286966::1::::<><>::
